@@ -1,7 +1,7 @@
 # 🏈 SidelineReel — Product Manager Case Study & A/B Prototype Exploration
 
 > 🧪 **Prototype A/B Testing & Design Iteration:**  
-> * **[Launch Variant B — Interactive Core Flow (Recommended)](https://rahuldisari.github.io/sidelinereel-pm-case-study/)** — *Focuses on high-interactivity, coach verification state switches, and live feedback loops.*  
+> * **[Launch Variant B — Interactive Core Flow (Recommended)](https://rahuldisari.github.io/sidelinereel_prototype_roadmap.html/)** — *Focuses on high-interactivity, coach verification state switches, and live feedback loops.*  
 > * **[Launch Variant A — Visual Overview & Dashboard Site](https://rahuldisari.github.io/sidelinereel-pm-case-study/variant-a-static.html)** — *Focuses on high-level executive dashboard summaries and roadmap visual architecture.*  
 >  
 > 📄 **Product Spec & Documentation:** 📝 [Read Full Spec (`SidelineReel.md`)](https://github.com/rahuldisari/sidelinereel-pm-case-study/blob/main/SidelineReel.md)  
