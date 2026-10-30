@@ -42,5 +42,5 @@ When the AI misidentifies a jersey number (e.g., swapping #14 for #4), **parents
 ## 🖥️ Interactive Prototype & Repository Deliverables
 All deliverables for this assignment are interlinked directly in this repository:
 
-* 📱 **[Launch Live Web App Prototype (`SidelineReel.html`)](https://YOUR_GITHUB_USERNAME.github.io/sidelinereel-pm-case-study/SidelineReel.html)** — The interactive Task 3 application showing the Coach HITL verification queue, parent guardrails, and roadmap metrics.
-* 📝 **[Read Product Spec & Documentation (`SidelineReel.md`)](https://github.com/YOUR_GITHUB_USERNAME/sidelinereel-pm-case-study/blob/main/SidelineReel.md)** — Complete Product Requirement Document (PRD) with acceptance criteria and failure mode analysis.
+* 📱 **[Launch Live Web App Prototype (`SidelineReel.html`)](https://rahuldisari.github.io/sidelinereel-pm-case-study/SidelineReel.html)** — The interactive Task 3 application showing the Coach HITL verification queue, parent guardrails, and roadmap metrics.
+* 📝 **[Read Product Spec & Documentation (`SidelineReel.md`)](https://github.com/rahuldisari/sidelinereel-pm-case-study/blob/main/SidelineReel.md)** — Complete Product Requirement Document (PRD) with acceptance criteria and failure mode analysis.
