@@ -1,7 +1,7 @@
 # 🏈 SidelineReel — Product Manager Strategy Case Study & Live Prototype
 
-> **Live Interactive App (Main Task 3 UI):** 🔗 [Open Interactive Web Prototype](https://YOUR_GITHUB_USERNAME.github.io/sidelinereel-pm-case-study/SidelineReel.html)  
-> **PRD Specification Document:** 📄 [View Full Spec (`SidelineReel.md`)](https://github.com/YOUR_GITHUB_USERNAME/sidelinereel-pm-case-study/blob/main/SidelineReel.md)  
+> 🚀 **Interactive Prototype:** 🔗 [Click Here to View the Interactive Prototype](https://YOUR_GITHUB_USERNAME.github.io/sidelinereel-pm-case-study/SidelineReel.html)  
+> 📄 **Product Spec & Documentation:** 📝 [Read Full Spec (`SidelineReel.md`)](https://github.com/YOUR_GITHUB_USERNAME/sidelinereel-pm-case-study/blob/main/SidelineReel.md)  
 > **Role:** Product Manager Case Study | **Focus:** B2B SaaS Churn, AI OCR Accuracy, & Data-Driven Prioritization
 
 ---
