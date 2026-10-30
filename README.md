@@ -1,25 +1,28 @@
 # 🏈 SidelineReel — Product Manager Strategy Case Study & Live Prototype
 
-> **Live Demo:** 🔗 [Click Here to View the Interactive Prototype](https://<YOUR-GITHUB-USERNAME>.github.io/sidelinereel-pm-case-study/)  
-> **Role:** Product Manager Case Study  
-> **Focus:** B2B SaaS Churn, AI OCR Accuracy, Data-Driven Prioritization, Human-In-The-Loop (HITL) Workflows
+> **Live Interactive Prototype:** 🔗 [View Task 3 UI App](https://<YOUR-USERNAME>.github.io/sidelinereel-pm-case-study/)  
+> **Role:** Product Manager Case Study | **Focus:** B2B SaaS Churn, AI OCR Accuracy, & Data-Driven Prioritization
 
 ---
 
-## ⚡ 10-Second Executive Summary
+## ⚡ The Context (Why Parents & Clubs Matter)
+**SidelineReel** is a B2B SaaS product sold to youth sports clubs and leagues ($180k+ annual contracts). It automatically records games, detects jersey numbers via AI computer vision, and sends highlight reels to **parents** (users) and weekly recaps to **club directors** (payers). 
 
-### The Context
-**SidelineReel** automatically detects youth sports jersey numbers in video footage and sends AI-generated highlight reels to parents and weekly recaps to youth sports clubs ($180k+ annual accounts).
+When the AI misidentifies a jersey number (e.g., swapping #14 for #4), **parents receive the wrong kid's highlight reel.** This single failure breaks trust, causes parents to complain to club boards, and threatens multi-thousand-dollar club renewals.
 
-### The Challenge
-1. **30% Engagement Drop-Off:** 30% of generated reels sit unopened because OCR errors put the wrong kid on the cover thumbnail (e.g., swapping jersey #14 for #4, or #1 for #11).
-2. **$180k Revenue at Risk:** The biggest club client (Ridgeline) threatened to cancel their $180k renewal in 6 weeks if live streaming wasn't added to the product roadmap.
-3. **Survey vs. Telemetry Noise:** 58% of parents asked for complex video editing tools in surveys, but telemetry showed only **6% opened the editor and <1% completed an edit**.
+---
 
-### The PM Solution & Decisions
-* **Priority #1 — Roster Tagging 2.0 (HITL Engine):** Route low-confidence OCR clips (<85%) and ambiguous digit pairs to a 20-second post-game Coach Review Queue to eliminate thumbnail errors and recover the lost 30% unopened reel volume.
-* **The Strategic Trade-Off (Live Streaming):** Said **NO** to building expensive native video live streaming ($500k+ engineering build). Instead, offered a **3-week RTMP Livestream Bridge** (embedding YouTube Live/Twitch links in the team hub) to protect Ridgeline's $180k account without derailing the AI core.
-* **Deprioritized Video Editor:** Overrode survey requests in favor of behavioral data to avoid engineering waste.
+## 🚨 The Core Challenges
+1. **The 30% Engagement Drop-Off:** 30% of generated reels sit unopened because OCR errors put the wrong kid on the cover thumbnail.
+2. **The $180k Renewal Ultimatum:** Ridgeline Youth Soccer Club (our largest account) threatened to walk away in 6 weeks if live streaming wasn't added.
+3. **Survey vs. Telemetry Conflict:** 58% of parents asked for complex video editing tools in surveys, but product analytics showed **only 6% opened the editor and <1% completed an edit**.
+
+---
+
+## 💡 The PM Decisions & Roadmap
+* **Priority #1 — Roster Tagging 2.0 (HITL Engine):** Build a Human-in-the-Loop review queue for low-confidence OCR clips (<85%) and overlapping digits. This eliminates thumbnail errors and rescues the lost 30% unopened reel volume.
+* **The Strategic Trade-Off (Live Streaming):** Said **NO** to building expensive native video live streaming ($500k+ engineering build). Instead, delivered a **3-week RTMP Livestream Bridge** (embedding YouTube Live/Twitch links in the team hub) to protect Ridgeline's $180k account.
+* **Deprioritized Video Editor:** Overrode survey noise in favor of actual user telemetry to avoid engineering waste.
 
 ---
 
@@ -35,18 +38,9 @@
 
 ---
 
-## 🖥️ Interactive Prototype Features
-The included **`index.html`** prototype demonstrates the three core workflows:
+## 🖥️ Interactive Prototypes & Code Files
+All deliverables for this assignment are fully interlinked and hosted in this repository:
 
-1. **Coach HITL Verification Dashboard:** Shows flagged clips with OCR confidence scores and 1-tap jersey confirmation.
-2. **Parent Guardrails & Scheduler:** Simulates held overnight notifications and a single-tap "Report Wrong Kid" feedback loop.
-3. **Product Roadmap & Metrics View:** Visual breakdown of user telemetry vs. survey feedback.
-
-👉 **[Try the Live Web App Prototype](https://<YOUR-GITHUB-USERNAME>.github.io/sidelinereel-pm-case-study/)**
-
----
-
-## 📂 Repository Contents
-* **`index.html`**: Runnable interactive prototype (HTML, Tailwind CSS, JavaScript).
-* **`spec.md` / `sidelinereel.md`**: Full Product Requirement Document (PRD) including acceptance criteria, failure modes, and HITL flowcharts.
-* **`sidelinereel.html`**: Raw Replit application code export.
+* **[Live Interactive App (`index.html`)](https://<YOUR-USERNAME>.github.io/sidelinereel-pm-case-study/)**: The primary Task 3 working prototype featuring the Coach HITL verification dashboard, parent guardrails, and roadmap views.
+* **[Alternate Replit App (`replit-app.html`)](https://<YOUR-USERNAME>.github.io/sidelinereel-pm-case-study/replit-app.html)**: The raw code export capturing the initial development state.
+* **`spec.md`**: Detailed Product Requirement Document (PRD) with acceptance criteria and failure mode analysis.
