@@ -2,7 +2,7 @@
 
 > 🧪 **Prototype A/B Testing & Design Iteration:**  
 > * **[Launch Variant B — Interactive Core Flow ](https://rahuldisari.github.io/sidelinereel-pm-case-study/SidelineReel.html)** — *Focuses on high-interactivity, coach verification state switches, and live feedback loops.*  
-> * **[Launch Variant A — Visual Overview & Dashboard Site]((https://rahuldisari.github.io/sidelinereel_prototype_roadmap.html/)** — *Focuses on high-level executive dashboard summaries and roadmap visual architecture.*  
+> * **[Launch Variant A — Visual Overview & Dashboard Site](https://rahuldisari.github.io/sidelinereel_prototype_roadmap.html/)** — *Focuses on high-level executive dashboard summaries and roadmap visual architecture.*  
 >  
 > 📄 **Product Spec & Documentation:** 📝 [Read Full Spec (`SidelineReel.md`)](https://github.com/rahuldisari/sidelinereel-pm-case-study/blob/main/SidelineReel.md)  
 > **Role:** Product Manager Case Study | **Focus:** B2B SaaS Churn, AI OCR Accuracy, & Data-Driven Prioritization
