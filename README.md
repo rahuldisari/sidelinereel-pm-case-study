@@ -1,6 +1,7 @@
 # 🏈 SidelineReel — Product Manager Strategy Case Study & Live Prototype
 
-> **Live Interactive Prototype:** 🔗 [View Task 3 UI App](https://<YOUR-USERNAME>.github.io/sidelinereel-pm-case-study/)  
+> **Live Interactive App (Main Task 3 UI):** 🔗 [Open Interactive Web Prototype](https://YOUR_GITHUB_USERNAME.github.io/sidelinereel-pm-case-study/SidelineReel.html)  
+> **PRD Specification Document:** 📄 [View Full Spec (`SidelineReel.md`)](https://github.com/YOUR_GITHUB_USERNAME/sidelinereel-pm-case-study/blob/main/SidelineReel.md)  
 > **Role:** Product Manager Case Study | **Focus:** B2B SaaS Churn, AI OCR Accuracy, & Data-Driven Prioritization
 
 ---
@@ -38,9 +39,8 @@ When the AI misidentifies a jersey number (e.g., swapping #14 for #4), **parents
 
 ---
 
-## 🖥️ Interactive Prototypes & Code Files
-All deliverables for this assignment are fully interlinked and hosted in this repository:
+## 🖥️ Interactive Prototype & Repository Deliverables
+All deliverables for this assignment are interlinked directly in this repository:
 
-* **[Live Interactive App (`index.html`)](https://<YOUR-USERNAME>.github.io/sidelinereel-pm-case-study/)**: The primary Task 3 working prototype featuring the Coach HITL verification dashboard, parent guardrails, and roadmap views.
-* **[Alternate Replit App (`replit-app.html`)](https://<YOUR-USERNAME>.github.io/sidelinereel-pm-case-study/replit-app.html)**: The raw code export capturing the initial development state.
-* **`spec.md`**: Detailed Product Requirement Document (PRD) with acceptance criteria and failure mode analysis.
+* 📱 **[Launch Live Web App Prototype (`SidelineReel.html`)](https://YOUR_GITHUB_USERNAME.github.io/sidelinereel-pm-case-study/SidelineReel.html)** — The interactive Task 3 application showing the Coach HITL verification queue, parent guardrails, and roadmap metrics.
+* 📝 **[Read Product Spec & Documentation (`SidelineReel.md`)](https://github.com/YOUR_GITHUB_USERNAME/sidelinereel-pm-case-study/blob/main/SidelineReel.md)** — Complete Product Requirement Document (PRD) with acceptance criteria and failure mode analysis.
